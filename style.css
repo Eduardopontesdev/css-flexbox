@@ -18,7 +18,6 @@ main {
     flex-wrap: wrap;
     max-width: 80%;
     gap: 10px;
-    border: 2px solid orange;
 }
 
 section {
